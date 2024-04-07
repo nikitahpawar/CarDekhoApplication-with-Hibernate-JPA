@@ -1,1 +1,1 @@
-# CarDekhoApplication-with-Hibernate-JPA
+# CarDekhoApplication-with-Hibernate
